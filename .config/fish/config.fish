@@ -13,6 +13,7 @@ starship init fish | source
 
 #add abbreviations
 source $HOME/.config/fish/conf.d/abbr.fish
+source $HOME/.config/fish/conf.d/path.fish
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
